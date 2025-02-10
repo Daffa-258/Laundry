@@ -13,7 +13,7 @@
             <a href="../laundry-keluar"><span class="glyphicon glyphicon-shopping-cart"></span> Laundry Keluar</a>
         </li>        
         <li>
-            <a href="../tentang"><span class="glyphicon glyphicon-th"></span> Tentang Laundry Ai</a>
+            <a href="../tentang"><span class="glyphicon glyphicon-th"></span> Tentang Laundry DF</a>
         </li>
     </ul>
 </div>

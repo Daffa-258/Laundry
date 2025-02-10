@@ -32,7 +32,7 @@
                             <div class="form-group">
                                 <label class="control-label col-sm-2">Nama Konsumen :</label>
                                 <div class="col-sm-10">
-                                    <input type="text" class="form-control" name="nama_konsumen" placeholder="Ahmad Ihya" required>
+                                    <input type="text" class="form-control" name="nama_konsumen" placeholder="Daffa Dhyaulhaq" required>
                                 </div>
                             </div>
                             <div class="form-group">

@@ -17,7 +17,7 @@
                     <div class="text-center">
                         <h2>Tentang</h2>
                         <p>
-                            Laundry Ai merupakan sebuah sistem informasi sederhana berbasis web. Laundry Ai digunakan untuk melakukan pendataan terhadap laundry masuk dan laundry keluar. Laundry Ai dibangun menggunakan bahasa php, javascript, dan framework bootstrap.                                        
+                            Laundry DF merupakan sebuah sistem informasi sederhana berbasis web. Laundry DF digunakan untuk melakukan pendataan terhadap laundry masuk dan laundry keluar. Laundry DF dibangun menggunakan bahasa php, javascript, dan framework bootstrap.                                        
                         </p>
                     </div>
                 </div>

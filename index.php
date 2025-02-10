@@ -10,7 +10,7 @@
 <!doctype html>
     <html lang="en">
     <head>        
-        <title>Laundry Ai</title>
+        <title>Laundry DF</title>
 	    <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -21,7 +21,7 @@
         <nav class="navbar navbar-inverse">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="#menu-toggle" id="menu-toggle">Laundry Ai</a>
+                    <a class="navbar-brand" href="#menu-toggle" id="menu-toggle">Laundry DF</a>
                 </div>
                 <ul class="nav navbar-nav navbar-right">
                     <li class="dropdown">
@@ -59,7 +59,7 @@
                         <a href="laundry-keluar"><span class="glyphicon glyphicon-shopping-cart"></span> Laundry Keluar</a>
                     </li>                    
                     <li>
-                        <a href="tentang"><span class="glyphicon glyphicon-th"></span> Tentang Laundry Ai</a>
+                        <a href="tentang"><span class="glyphicon glyphicon-th"></span> Tentang Laundry DF</a>
                     </li>
                 </ul>
             </div>
@@ -71,9 +71,9 @@
                         <div class="col-lg-12">
                             <div class="homepage">
                                 <div class="text-center">
-                                    <h2>Welcome to Laundry Ai</h2>
+                                    <h2>Welcome to Laundry DF</h2>
                                     <p>
-                                        Halo <b><?php echo $username;?></b>, Selamat datang di Laundry Ai :]
+                                        Halo <b><?php echo $username;?></b>, Selamat datang di Laundry DF :]
                                         <br />Sebuah web apps sederhana yang berfungsi untuk melakukan pendataan laundry
                                     </p>
                                 </div>

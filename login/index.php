@@ -54,7 +54,7 @@
         <meta name="description" content="">
         <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
         <meta name="generator" content="Jekyll v3.8.5">
-        <title>Login | Laundry Ai</title>
+        <title>Login | Laundry DF</title>
         
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
         <link rel="stylesheet" href="signin.css">    
@@ -64,7 +64,7 @@
         <form class="form-signin" action="" method="post">
             <img class="mb-4" src="../img/washing1.png" alt="" width="90" height="90">
 
-            <h1 class="h3 mb-3 font-weight-normal">Laundry Ai</h1>
+            <h1 class="h3 mb-3 font-weight-normal">Laundry DF</h1>
 
             <label for="username" class="sr-only">Username</label>
             <input type="text" name="username" id="username" class="form-control" placeholder="Username" required autofocus>
@@ -81,8 +81,8 @@
             <?php if(isset($error)) : ?>
                 <script>alert('Username atau password salah!')</script>
             <?php endif; ?>
-            <p class="mt-5 mb-3 text-muted">Copyright &copy; Sistem Laundry Sederhana - 2022</p>
-            <br><p>Repost by <a>Ahmad Ihya</a></p></br>
+            <p class="mt-5 mb-3 text-muted">Copyright &copy; Sistem Laundry Sederhana - 2024</p>
+            <br><p>Repost by <a>Daffa Dhyaulhaq</a></p></br>
         </form>
     </body>
 </html>
